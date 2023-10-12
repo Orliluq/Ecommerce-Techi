@@ -1,6 +1,9 @@
 # Ecommerce Techi
 Is an online e-commerce store that offers an intuitive shopping experience for its customers. The project is developed using React, Redux, and Tailwind CSS.
 
+![techi](https://github.com/Orliluq/Ecommerce-Techi/assets/122529721/5d706583-4e69-443e-ac2e-240a252eb6fd)
+
+
 ## Project Description
 Techi is an online e-commerce store built with a focus on providing a seamless shopping experience to its customers. The project has been developed using the latest front-end technologies, including React, Redux, Redux Thunk, and Redux Toolkit. Data fetching has been achieved using Axios, which ensures a fast and reliable source of data.
 
