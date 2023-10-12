@@ -195,3 +195,46 @@ body {
     width: 16px;
   }
 }
+
+.frame {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.slider {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.slide {
+  width: 100%;
+  height: 100%;
+  max-width: 300px;
+  margin: 10px;
+}
+
+.btns {
+  width: 100%;
+  justify-content: center;
+  bottom: 20px;
+  margin: 0 auto;
+}
+
+.prev-btn, .next-btn {
+  width: 14px;
+  height: 12px;
+  font-size: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .slide {
+    max-width: 200px;
+  }
+
+  .btns {
+    bottom: 10px;
+  }
+}
